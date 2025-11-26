@@ -1,4 +1,4 @@
-# analog_temp.py
+# analog_temperature_sensor.py
 # MicroPython class for analog temperature sensors (LM35, TMP36, NTC thermistor, etc.)
 
 from machine import ADC, Pin
