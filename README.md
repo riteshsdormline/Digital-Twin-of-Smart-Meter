@@ -2,9 +2,6 @@
 
 A Digital Twin–driven smart metering prototype implementing human-centric, Industry 5.0 principles. This project demonstrates a working prototype that collects real-time telemetry (current, voltage, temperature, humidity) using an ESP32-based edge device (MicroPython), publishes secure telemetry to AWS IoT Core, stores telemetry in DynamoDB, and runs serverless predictive analytics (AWS Lambda) to enable automated safety actions and human-friendly dashboards (OLED / Blynk).
 
-Reference / background:
-Smart Blind Stick for Visually Impaired Navigation — IEEE article (for context)
-https://ieeexplore.ieee.org/document/11386629
 
 (Primary paper for this repository:)
 Intelligent Energy Management Using Digital Twin–Driven Smart Metering in Industry 5.0 — see manuscript and references in repository.
